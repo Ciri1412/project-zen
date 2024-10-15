@@ -2,15 +2,13 @@
 using namespace std;
 
 int main(){
-    int num;
-    cout<<"Odd or Even Number\n";
+      int num;
+cout<<"Odd or Even Number\n";
     cout<<"Enter a number to check if Odd or Even:\n";
     cin>>num;
 
-    if((num%2)==0){
+            if((num%2)==0){
         cout<<"The number you input " <<num <<" is even number";
-    }
-    else{
+    }else{
         cout<<"The number you input "<<num<<" is odd number";
-    }
-}
+    }}
