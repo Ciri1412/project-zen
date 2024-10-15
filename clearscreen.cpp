@@ -7,7 +7,7 @@ int sub();
 
 int main() {
     int user_input, result;
-    
+    //cout<<"BS5AA";
     do {
         cls();
         cout<<"C++ Calculator\n1. Add\n2. Subtract\n3. Exit\nEnter your choice: ";
